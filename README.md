@@ -10,7 +10,8 @@ https://drive.google.com/drive/folders/1cjK8U-WvxIRQLqpr2-AoKYcBUEernq15?usp=sha
 - [x] number of crimes over a day
 - [x] most common crimes
 - [x] what crimes are the most common on which days
-- [ ] what days of the week have the most crimes
+- [x] what days of the week have the most crimes
+- [x] crime over a day
 - [ ] distance to harvard yard
 - [ ] most "dangerous" location based on time of day
 - [ ] types of crime by location

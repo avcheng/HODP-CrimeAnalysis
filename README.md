@@ -3,6 +3,9 @@
 data found at:
 https://docs.google.com/spreadsheets/d/1AMbEglG18BDz4-mQgTfAl4-jiT2Th_tKyIjwBEMDWF8/edit#gid=0
 
+slides:
+[ethan] TODO
+
 ## Checklist
 - [x] number of crimes over a day
 - [x] most common crimes

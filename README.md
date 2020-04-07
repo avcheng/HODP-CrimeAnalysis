@@ -8,6 +8,6 @@ https://drive.google.com/drive/folders/1cjK8U-WvxIRQLqpr2-AoKYcBUEernq15?usp=sha
 
 ## Contributors
 
-Alex Cheng
-Kevin Huang
-Ethan Lee
+* Alex Cheng
+* Kevin Huang
+* Ethan Lee
